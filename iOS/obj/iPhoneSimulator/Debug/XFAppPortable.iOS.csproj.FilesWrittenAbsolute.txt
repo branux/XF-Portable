@@ -1,0 +1,15 @@
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/XFAppPortable.iOS.exe.mdb
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/XFAppPortable.iOS.exe
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/XFAppPortable.iOS.exe
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/obj/iPhoneSimulator/Debug/XFAppPortable.iOS.exe.mdb
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/XFAppPortable.dll
+/Users/juniorporfirio/Projects/XFAppPortable/iOS/bin/iPhoneSimulator/Debug/XFAppPortable.dll.mdb

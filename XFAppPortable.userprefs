@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D72ECC99-DD62-4798-9856-1C2D5B7BA0E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFAppPortable.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.261389ED-0CA2-4FB4-9902-449A9252A422" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/MobileVersion.cs">
+    <Files>
+      <File FileName="XFAppPortable/XFAppPortable.cs" Line="23" Column="1" />
+      <File FileName="XFAppPortable/IMobileVersion.cs" Line="8" Column="2" />
+      <File FileName="XFAppPortable/MobileVersion.cs" Line="9" Column="40" />
+      <File FileName="Droid/MobileVersion.cs" Line="9" Column="3" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="iOS/MobileVersion.cs" Line="2" Column="24" />
+      <File FileName="iOS/Main.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XFAppPortable.Droid PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/juniorporfirio/Projects/XFAppPortable/Droid/MobileVersion.cs" line="13" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
